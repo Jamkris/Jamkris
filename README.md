@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=velog&logoColor=white"/>
+<img src="https://img.shields.io/badge/Velog-3DDC84?style=plastic&logo=velog&logoColor=white"/>
 
 <br>
 
