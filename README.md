@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Velog-white?style=plastic&logo=velog"/>
+<a herf="https://velog.io/@jamkris" target="_blank"><img src="https://img.shields.io/badge/Velog-white?style=plastic&logo=velog"/></a>
 
 <br>
 
