@@ -2,6 +2,9 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&fontSize=50&text=DeveloperSeoungHyun)
   
+  ## ♦️ Mind to Pursue ♦️
+  Nothing Change If You Don't Try
+  
   ## 🌈Follow Me🌈
   <a href="https://profile.jamkris00.repl.co" target="_blank"><img src="https://img.shields.io/badge/MyHomepage-E6899A?style=flat-square&logo=Homepage&logoColor=black"/></a>
   <a href="mailto:dltmdgus1412@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dltmdgus1412@gmail.com"/></a>
