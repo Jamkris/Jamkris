@@ -7,10 +7,10 @@
   
   ## 🌈Follow Me🌈
   <a href="https://profile.jamkris00.repl.co" target="_blank"><img src="https://img.shields.io/badge/MyHomepage-E6899A?style=flat-square&logo=Homepage&logoColor=black"/></a>
-  <a href="mailto:dltmdgus1412@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dltmdgus1412@gmail.com"/></a>
+  <a href="mailto:dltmdgus1412@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dltmdgus1412@gmail.com"/></a>
   <a target="_blank"><img src="https://img.shields.io/badge/Korea Number 010--2316--8774-000000?style=flat-square&logo=Mail&logoColor=white"/></a>
   
-  <a href="https://velog.io/@jamkris"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>
+  <a href="https://velog.io/@jamkris" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>
   <a href="https://replit.com/@jamkris00" target="_blank"><img src="https://img.shields.io/badge/Replit-F1650B?style=flat-square&logo=Replit&logoColor=white"/></a>
   <a href="https://www.instagram.com/hyun_2u/" target="_blank"><img src="https://img.shields.io/badge/Instagram-F70074?style=flat-square&logo=Instagram&logoColor=white"/></a>
   
