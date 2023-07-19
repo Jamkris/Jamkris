@@ -14,7 +14,7 @@
   <a href="https://replit.com/@jamkris00" target="_blank"><img src="https://img.shields.io/badge/Replit-F1650B?style=flat-square&logo=Replit&logoColor=white"/></a> 
   <a href="https://www.instagram.com/hyun_2u/" target="_blank"><img src="https://img.shields.io/badge/Instagram-F70074?style=flat-square&logo=Instagram&logoColor=white"/></a>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJamkris&count_bg=%23D27776&title_bg=%23AE3A39&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJamkris&count_bg=%23000000&title_bg=%23000000&icon=jabber.svg&icon_color=%23FFFFFF&title=%21%21&edge_flat=false)](https://hits.seeyoufarm.com)
   <br>
   
   ## 📚Tech Stacks📚
