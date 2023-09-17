@@ -2,9 +2,6 @@
    
   ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&fontSize=50&text=DeveloperSeoungHyun)
   
-  ## ♦️ Mind to Pursue ♦️
-  Nothing Change If You Don't Try
-  
   ## 🌈Follow Me🌈
   <a href="https://hyun-profile.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/MyHomepage-E6899A?style=flat-square&logo=Homepage&logoColor=black"/></a>
   <a href="mailto:dltmdgus1412@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dltmdgus1412@gmail.com"/></a>
@@ -27,15 +24,7 @@
   <img src="https://img.shields.io/badge/Illustrator-310000?style=flat&logo=Adobe Illustrator&logoColor=AC6600" />
   <img src="https://img.shields.io/badge/Java-4E7C99?style=flat&logo=Java&logoColor=white" />
   <br>
-  <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamkris&layout=compact">
-  
-  <br>
-  
-  ## 👣 My GitHub
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamkris&show_icons=true&theme=radical)
-  <br/>
 
   ## 📓My BaekJoon Level📓
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lchyun1412)](https://solved.ac/lchyun1412/)
