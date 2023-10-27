@@ -12,20 +12,9 @@
   <a href="https://www.instagram.com/hyun_2u/" target="_blank"><img src="https://img.shields.io/badge/Instagram-F70074?style=flat-square&logo=Instagram&logoColor=white"/></a>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJamkris&count_bg=%23000000&title_bg=%23000000&icon=jabber.svg&icon_color=%23FFFFFF&title=%21%21&edge_flat=false)](https://hits.seeyoufarm.com)
-  <br>
-  
-  ## 📚Tech Stacks📚
-  <img src="https://img.shields.io/badge/Python-F7D955?style=flat&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00427E?style=flat&logo=C&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E96329?style=flat&logo=HTML&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-146EB0?style=flat&logo=css&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Javascript-EFD81D?style=flat&logo=Javascript&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Illustrator-310000?style=flat&logo=Adobe Illustrator&logoColor=AC6600" />
-  <img src="https://img.shields.io/badge/Java-4E7C99?style=flat&logo=Java&logoColor=white" />
-  <br>
-  
 
+  <br>
+  
   ## 📓My BaekJoon Level📓
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lchyun1412)](https://solved.ac/lchyun1412/)
 </div>
