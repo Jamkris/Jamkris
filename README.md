@@ -20,7 +20,8 @@
 
   <br>
 
-  ##Support🙏
+  ## Support🙏
+  
   <a href="https://www.buymeacoffee.com/jamkris" target="_blank">
    <img src="https://miro.medium.com/v2/resize:fit:1200/1*gn1TYpqpHpkzHC-PDrPgiw.png" height="100px" alt="Buy Me a Coffee" />
   </a>
