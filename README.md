@@ -15,8 +15,8 @@
 
   <br>
   
-  ## 📓My BaekJoon Level📓
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lchyun1412)](https://solved.ac/lchyun1412/)
+  ## 📓MyPortfolio📓
+  <a href="https://jamkris.notion.site/SeoungHyun-Lee-41852bb4b2204569b9d5b25f5a4ffe3c" target="_blank" >Click Me</a>
 
   <br>
 
