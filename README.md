@@ -1,6 +1,4 @@
  <div align="center">
-   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&height=200&fontSize=50&text=DeveloperSeoungHyun)
   
   ## 🌈Follow Me🌈
   <a href="https://hyun-profile.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/MyHomepage-E6899A?style=flat-square&logo=Homepage&logoColor=black"/></a>
