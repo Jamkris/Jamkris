@@ -14,7 +14,7 @@
   <br>
   
   ## 📓MyPortfolio📓
-  <a href="https://jamkris.notion.site/SeoungHyun-Lee-41852bb4b2204569b9d5b25f5a4ffe3c" target="_blank" >Click Me</a>
+  <a href="https://jamkris.notion.site/SeoungHyun-Lee-41852bb4b2204569b9d5b25f5a4ffe3c?pvs=4" target="_blank" >Click Me</a>
 
   <br>
 
