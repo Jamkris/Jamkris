@@ -1,20 +1,13 @@
- <div align="center">
-  
-  ## 🌈Follow Me🌈
-  <a href="https://jamkris.notion.site/SeoungHyun-Lee-41852bb4b2204569b9d5b25f5a4ffe3c" target="_blank"><img src="https://img.shields.io/badge/Introduce-E6899A?style=flat-square&logo=Homepage&logoColor=black"/></a>
-  <a href="mailto:dltmdgus1412@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dltmdgus1412@gmail.com"/></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/+82 010--2316--8774-000000?style=flat-square&logo=Mail&logoColor=white"/></a>
- 
-  <a href="https://velog.io/@jamkris" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>
-  <a href="https://seounghyunblog.vercel.app/" target="_blank">Blog2</a>
-  <a href="https://www.instagram.com/hyun_2u/" target="_blank"><img src="https://img.shields.io/badge/Instagram-F70074?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJamkris&count_bg=%23000000&title_bg=%23000000&icon=jabber.svg&icon_color=%23FFFFFF&title=%21%21&edge_flat=false)](https://hits.seeyoufarm.com)
+ <div>
 
+  ## 👋🏻 Introduce
+  Always Accept New! 항상 새로운 것을 거부하지 않고 받아들이면서 성장하고 앞으로 나이가기 위해 노력합니다.
+  
   <br>
   
   ## 📓MyPortfolio📓
-  <a href="https://jamkris.notion.site/SeoungHyun-Lee-41852bb4b2204569b9d5b25f5a4ffe3c?pvs=4" target="_blank" >Click Me</a>
+  <a href="https://jamkris.notion.site/SeoungHyun-Lee-41852bb4b2204569b9d5b25f5a4ffe3c?pvs=4" target="_blank" > <img src="https://github.com/Jamkris/Jamkris/assets/82251632/c72bb54b-062d-4c0a-9511-028e36cb983a" width="60" /> </a>
+
 
   <br>
 
