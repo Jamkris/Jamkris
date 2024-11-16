@@ -10,7 +10,7 @@
   ## 📓 MyPortfolio
   <a href="https://jamkris.notion.site/SeoungHyun-Lee-41852bb4b2204569b9d5b25f5a4ffe3c?pvs=4" target="_blank" > <img src="https://github.com/Jamkris/Jamkris/assets/82251632/c72bb54b-062d-4c0a-9511-028e36cb983a" width="60" /> </a>
   
-  <br>
+  <br> 
 
   ## 🙏 Support
   
