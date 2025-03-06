@@ -1,9 +1,9 @@
  <div>
 
   ## <img src="https://github.com/user-attachments/assets/d40962c4-2edd-4c3e-b014-d2d49cd3d7ee" width="26" /> Introduce
-  Always Accept New! 항상 새로운 것을 거부하지 않고
+  Always Accept New! 
   <br>
-  받아들이면서 성장하고 앞으로 나이가기 위해 노력합니다.
+  항상 새로운 것을 거부하지 않고 받아들이면서 성장하고 앞으로 나이가기 위해 노력합니다.
   
   <br>
   
