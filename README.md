@@ -6,7 +6,7 @@
 Always try to grow and become older by accepting new things without rejecting them.  
   <br>
   
-  ## 📓 MyPortfolio
+  ## 📓 My LinkTree
   > [About me](https://linktr.ee/hyun_2u)
   
   <br> 
