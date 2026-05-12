@@ -24,6 +24,20 @@ I’d rather try and learn than let it pass. Embrace, build, grow.
 | [**everything-gemini-code**](https://github.com/Jamkris/everything-gemini-code) <br /> <sub>A harness engineering toolkit for Gemini CLI & Antigravity.</sub> <br /><br />![Stars](https://img.shields.io/github/stars/Jamkris/everything-gemini-code?style=flat-square&label=stars&color=f59e0b) ![Forks](https://img.shields.io/github/forks/Jamkris/everything-gemini-code?style=flat-square&label=forks&color=60a5fa) ![Version](https://img.shields.io/github/v/release/Jamkris/everything-gemini-code?style=flat-square&color=34d399) |
 | :--- |
 
+<br />
+
+## Activity & Overview
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamkris/Github-Gist-Status/main/output/activity-dark.svg" />
+  <img alt="Commit Activity" src="https://raw.githubusercontent.com/Jamkris/Github-Gist-Status/main/output/activity-light.svg" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamkris/Github-Gist-Status/main/output/overview-dark.svg" />
+  <img alt="GitHub Overview" src="https://raw.githubusercontent.com/Jamkris/Github-Gist-Status/main/output/overview-light.svg" />
+</picture>
+
+
 <!-- <br />
 <br />
 
