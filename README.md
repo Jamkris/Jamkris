@@ -29,11 +29,11 @@ I’d rather try and learn than let it pass. Embrace, build, grow.
 ## Activity & Overview
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamkris/Github-Gist-Status/main/output/activity-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamkris/Github-Gist-Status/main/output/activity-dark.svg?v=2" />
   <img alt="Commit Activity" src="https://raw.githubusercontent.com/Jamkris/Github-Gist-Status/main/output/activity-light.svg" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamkris/Github-Gist-Status/main/output/overview-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamkris/Github-Gist-Status/main/output/overview-dark.svg?v=2" />
   <img alt="GitHub Overview" src="https://raw.githubusercontent.com/Jamkris/Github-Gist-Status/main/output/overview-light.svg" />
 </picture>
 
