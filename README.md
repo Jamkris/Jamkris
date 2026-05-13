@@ -42,5 +42,5 @@ I’d rather try and learn than let it pass. Embrace, build, grow.
 ## Trophy
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=jamkris&title=-Reviews,-Repositories" alt="jamkris" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jamkris&title=-Reviews,-Repositories&theme=onestar" alt="jamkris" />
 </div>
