@@ -37,12 +37,10 @@ I’d rather try and learn than let it pass. Embrace, build, grow.
   <img alt="GitHub Overview" src="https://raw.githubusercontent.com/Jamkris/Github-Gist-Status/main/output/overview-light.svg" width="416px" />
 </picture>
 
-
-<!-- <br />
 <br />
 
----
+## Trophy
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jamkris&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats" height="165" />
-</p> -->
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=jamkris&title=-Reviews,-Repositories" alt="jamkris" />
+</div>
