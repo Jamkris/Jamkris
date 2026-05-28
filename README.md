@@ -16,7 +16,7 @@ I’d rather try and learn than let it pass. Embrace, build, grow.
 <br />
 
 ## Now
-**Developer in [@missgoAuctionTeam](https://github.com/missgoAuctionTeam) [@triplenine-holdings](https://github.com/triplenine-holdings)** - Company account [@leesh0709](https://github.com/leesh0709)
+2025.07~ing **Developer in [@missgoAuctionTeam](https://github.com/missgoAuctionTeam) [@triplenine-holdings](https://github.com/triplenine-holdings)** - Company account [@leesh0709](https://github.com/leesh0709)
 
 <br />
 
@@ -46,11 +46,3 @@ I’d rather try and learn than let it pass. Embrace, build, grow.
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jamkris/Github-Gist-Status/main/output/overview-dark.svg?v=2" />
   <img alt="GitHub Overview" src="https://raw.githubusercontent.com/Jamkris/Github-Gist-Status/main/output/overview-light.svg" width="416px" />
 </picture>
-
-<br />
-
-## Trophy
-
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=jamkris&title=-Reviews,-Repositories&theme=onestar" alt="jamkris" />
-</div>
