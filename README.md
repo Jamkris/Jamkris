@@ -16,7 +16,7 @@ I’d rather try and learn than let it pass. Embrace, build, grow.
 <br />
 
 ## Now
-2025.07~ing **Developer in [@missgoAuctionTeam](https://github.com/missgoAuctionTeam) [@triplenine-holdings](https://github.com/triplenine-holdings)** - Company account [@leesh0709](https://github.com/leesh0709)
+2025.07~2026.09 **Developer in [@missgoAuctionTeam](https://github.com/missgoAuctionTeam) [@triplenine-holdings](https://github.com/triplenine-holdings)** - Company account [@leesh0709](https://github.com/leesh0709)
 
 <br />
 
